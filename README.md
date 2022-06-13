@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">, I'm ELATILLAH</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">, I'm med</h1>
 <h3 align="center">I am Mohamed ELATILLAH, currently pursuing my srydy in Data science/ data analytics from The school of Information Sciences at Rabat/Morocco. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here.</h3>
 
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"> <a target="_blank" href="https://icons8.com/icon/Y4oVsnp75qny/hand-peace">Hand Peace</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>, I'm med</h1>
+<h1 align="center">Hi  👋, I'm med</h1>
 <h3 align="center">I am Mohamed ELATILLAH, currently pursuing my srydy in Data science/ data analytics from The school of Information Sciences at Rabat/Morocco. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here.</h3>
 
 

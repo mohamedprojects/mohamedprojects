@@ -66,6 +66,6 @@
 <p align="left">
 
 <a href = "https://ma.linkedin.com/in/mohamed-elatillah-01579a1bb"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href ="https://www.kaggle.com/mohamedelatillah"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/undefined/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"/></a>
+<a href ="https://www.kaggle.com/mohamedelatillah"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/undefined/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"/></a>
 </p>
 

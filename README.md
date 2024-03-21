@@ -10,10 +10,6 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **github and [My Kaggle](https://www.kaggle.com/mohamedelatillah)**
-
-- 📫 How to reach me **medelatillah@gmail.com**
-
 - ⚡ Fun fact **I play soccer and snooker.**
 
 ## 🚀 Languages and Tools:

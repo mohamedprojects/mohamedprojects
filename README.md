@@ -1,16 +1,15 @@
-<h1 align="center">Hi  👋, I'm med</h1>
-<h3 align="center">I am Med, currently pursuing my study in Data science/ data analytics . I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here.</h3>
+<h1 align="center">Hi  👋, I'm Med</h1>
+<h3 align="center">I’m a Data Analyst / Data Scientist passionate about exploring data, finding patterns, and turning numbers into meaningful insights.
+Find out more about me & feel free to connect with me here.</h3>
 
 
 ## 🙋‍♂️ About Me
 
+- 🔍 I like digging into data, making it **clean, understandable, and useful for decision-making.**
 
+- 🎯 Currently strengthening my skills in **Data Science & IA**
 
-- 🌱 I’m currently learning **Data Science.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- ⚡ Fun fact **I play soccer and snooker.**
+- ⚡ **Curious, friendly, and always eager to learn and collaborate.**
 
 ## 🚀 Languages and Tools:
 
@@ -40,6 +39,7 @@
 <p align="left">
 <a href ="https://www.kaggle.com/mohamedelatillah"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"/></a>
 </p>
+
 
 
 

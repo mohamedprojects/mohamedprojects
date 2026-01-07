@@ -1,5 +1,5 @@
 <h1 align="center">Hi  👋, I'm med</h1>
-<h3 align="center">I am Med, currently pursuing my srydy in Data science/ data analytics . I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here.</h3>
+<h3 align="center">I am Med, currently pursuing my study in Data science/ data analytics . I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -64,4 +64,5 @@
 <a href = "https://ma.linkedin.com/in/mohamed-elatillah-01579a1bb"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a><p>   </p>
 <a href ="https://www.kaggle.com/mohamedelatillah"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"/></a>
 </p>
+
 

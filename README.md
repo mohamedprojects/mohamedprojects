@@ -1,4 +1,4 @@
-<h1 align="center">Hi  👋, I'm Med</h1>
+<h1 align="center">Hi  👋, I'm Mohamed</h1>
 <h3 align="center">I’m a Data Engineer passionate about exploring data, finding patterns, and turning numbers into meaningful insights.
 Find out more about me & feel free to connect with me here.</h3>
 

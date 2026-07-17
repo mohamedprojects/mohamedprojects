@@ -1,5 +1,5 @@
 <h1 align="center">Hi  👋, I'm Med</h1>
-<h3 align="center">I’m a Data Analyst / Data Scientist passionate about exploring data, finding patterns, and turning numbers into meaningful insights.
+<h3 align="center">I’m a Data Engineer passionate about exploring data, finding patterns, and turning numbers into meaningful insights.
 Find out more about me & feel free to connect with me here.</h3>
 
 
@@ -7,7 +7,7 @@ Find out more about me & feel free to connect with me here.</h3>
 
 - 🔍 I like digging into data, making it **clean, understandable, and useful for decision-making.**
 
-- 🎯 Currently strengthening my skills in **Data Science & IA**
+- 🎯 Currently strengthening my skills in **Data & AI**
 
 - ⚡ **Curious, friendly, and always eager to learn and collaborate.**
 
